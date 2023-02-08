@@ -1,0 +1,13 @@
+.list {
+  list-style: none;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+  padding: 2px 0;
+}
+.deleteBtn:hover {
+  background-color: rgba(233, 118, 64, 0.849);
+  border-color: transparent;
+  border-radius: 2px;
+}
